@@ -1,7 +1,7 @@
 # Datos
 Alumno: Andres Carrasco Quispe.
 
-Curso: Anaalisis y Diseño de Algoritmos.
+Curso: Análisis y Diseño de Algoritmos.
 
 Universidad: Ciencia de la Computación.
 
