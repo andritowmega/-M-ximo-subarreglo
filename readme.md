@@ -1,7 +1,9 @@
 # Datos
-Alumno: Andres Carrasco Quispe
-Curso: Anaalisis y Diseño de Algoritmos
-Universidad: Ciencia de la Computación
+Alumno: Andres Carrasco Quispe.
+
+Curso: Anaalisis y Diseño de Algoritmos.
+
+Universidad: Ciencia de la Computación.
 
 # Máximo Subarreglo
 
